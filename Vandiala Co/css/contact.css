@@ -1,0 +1,18 @@
+body {
+  min-height: 100vh;
+  width: 100%;
+  background-image: linear-gradient(rgba(251,247,248,0.7),rgba(251,247,248,0.7));
+  background-position: center;
+  background-size: cover;
+}
+.heading {
+  margin-top: 200px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+.address {
+  font-size: 32px;
+}
+.hours-heading {
+  font-size: 32px;
+}

@@ -1,0 +1,21 @@
+body {
+  min-height: 100vh;
+  width: 100%;
+  background-image: linear-gradient(rgba(251,247,248,0.7),rgba(251,247,248,0.7));
+  background-position: center;
+  background-size: cover;
+}
+.text-box {
+  width: 90%;
+  color: #f05135;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  margin-top: 40px;
+}
